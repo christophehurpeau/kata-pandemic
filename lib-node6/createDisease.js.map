@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/createDisease.js"],"names":["name","eradicated"],"mappings":";;;;;;kBAEgBA,IAAD,KAAgC;AAC7CA,MAD6C;AAE7CC,cAAY;AAFiC,CAAhC,C","file":"createDisease.js","sourcesContent":["import type { DiseaseType } from './types';\n\nexport default (name: string): DiseaseType => ({\n  name,\n  eradicated: false,\n});\n"]}
