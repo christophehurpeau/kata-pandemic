@@ -38,7 +38,7 @@
     "komet": "^0.1.4",
     "komet-karma": "^0.2.5",
     "mocha": "^3.1.0",
-    "pob-babel": "^14.1.0",
+    "pob-babel": "^17.1.1",
     "pob-release": "^3.1.0",
     "tcomb-forked": "^3.4.0"
   }
